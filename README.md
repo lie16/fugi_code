@@ -1,0 +1,2 @@
+# fugi_code
+ Kometisi
