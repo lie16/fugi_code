@@ -1,0 +1,46 @@
+name: fugi_movie_app_team5
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  freezed_annotation: ^2.1.0
+  json_annotation: ^4.6.0
+  riverpod: ^1.0.3
+  dio: ^4.0.6
+  flutter_riverpod: ^1.0.4
+  intl: ^0.17.0
+  carousel_slider: ^4.1.1
+  percent_indicator: ^4.0.1
+  shimmer: ^2.0.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.10.0
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.2.0
+  freezed: ^2.1.0+1
+  json_serializable: ^6.3.1
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icon/
+    - assets/fonts/
+    - assets/fonts/
+    - assets/image/
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/icon/icon_play_filled.png"
+  min_sdk_android: 21 

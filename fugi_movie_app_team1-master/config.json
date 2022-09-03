@@ -1,0 +1,19 @@
+{
+        "modules": [
+                "admin/admin_main_navigation",
+                "admin/admin_dashboard",
+                "admin/admin_movie_list",
+                "client/welcome",
+                "client/login",
+                "client/dashboard",
+                "client/movie_detail",
+                "client/movie_list",
+                "client/video_player",
+                "admin/admin_video",
+                "client/movie_video_player",
+                "client/video_player",
+                "client/booking_detail",
+                "client/booking_list",
+                "client/profile"
+        ]
+}
