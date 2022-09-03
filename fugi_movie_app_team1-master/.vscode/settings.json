@@ -20,4 +20,5 @@
         "titleBar.activeBackground": "#65256C",
         "titleBar.activeForeground": "#FCF8FD"
     },
+    "java.configuration.updateBuildConfiguration": "interactive",
 }
